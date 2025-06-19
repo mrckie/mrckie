@@ -10,8 +10,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrckie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="20%" style="margin-right: 2px;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mrckie&theme=tokyonight&hide_border=true" width="20%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrckie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="35%" style="margin-right: 2px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mrckie&theme=tokyonight&hide_border=true" width="35%" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrckie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="35%" />
