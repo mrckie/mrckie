@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Header" src="./github-header-image.png" />
+  <img alt="Header" src="./Header.png" />
 </p>
 
 ## 🌐 Social Links:
