@@ -10,11 +10,11 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrckie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" style="margin-right: 2px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrckie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 2px;" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=mrckie&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrckie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrckie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="35%" />
 </div>
 
 
